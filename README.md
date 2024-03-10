@@ -24,9 +24,9 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/gabriel-menegol-5017592b1/" target="_balnk"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://wa.me/5554992603446" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <a href="mailto:gsmenegol740@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/gabriel-menegol-5017592b1/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5554992603446" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:gsmenegol749@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
   ![b4889e49e0bfb3d4324da437be48398a](https://github.com/Gabriel-Menegol749/Gabriel-Menegol749/assets/162857740/de55bbad-5d83-474f-9196-4f55d50211c8)
