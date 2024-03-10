@@ -33,5 +33,5 @@
 
 ##
 
-  ![b4889e49e0bfb3d4324da437be48398a](https://github.com/Gabriel-Menegol749/Gabriel-Menegol749/assets/162857740/de55bbad-5d83-474f-9196-4f55d50211c8)
+  <img src="![b4889e49e0bfb3d4324da437be48398a](https://github.com/Gabriel-Menegol749/Gabriel-Menegol749/assets/162857740/de55bbad-5d83-474f-9196-4f55d50211c8)" width="300" height="200">
 
