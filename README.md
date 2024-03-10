@@ -17,7 +17,6 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="right" alt="RestInFire" src="https://br.pinterest.com/pin/652670171026681617/.gif">
   
   <!--Aprendendo mais algumas funcionalidades das linguagens presentes para poder aumentar meus conhecimentos e habilidades, e também querendo adicionar mais conhecimentos sobre outras linguagens-->
 </div>
