@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, tudo bem? Eu sou o Gabriel Santos Menegol! 👋
 
-<!--
-**Gabriel-Menegol749/Gabriel-Menegol749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou buscando uma oportunidade como Desenvolvedor Junior.
+- 🌕 Tenho experiência com programação Front-End
+- 🌱 Atualmente estudando programação Full-Stack.
+- 👨‍💻 Tenho interesse em Web Design, UX/UI design e Marketing digital.
+- 📝 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Sul.
+<div>
+  <a href="htts:\\(https://github.com/Gabriel-Menegol749"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Menegol749&show_icons=true&theme=dark&include_all_commmits-true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Menegol749&layout-compact&langs_count16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+ 
+  
+</div>
