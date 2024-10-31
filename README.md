@@ -33,4 +33,6 @@
   <a href="mailto:gsmenegol749@gmail.com" target="_blank" rel="noopener""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAd/dark-souls-bonfire.gif" alt="Descanse aqui, quanto tempo precisar!">
+</div>
